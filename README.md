@@ -8,6 +8,7 @@ Also, please make sure the input file is under dir+/../tweet_input/tweets.txt so
 In run.sh and run_test.sh, I do not include
 > pip install spicy
 > pip install decimal
+
 But I am sure if you install this two packages and run under Python 2.7, you will get the right result.
 
 Thanks!
