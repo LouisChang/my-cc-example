@@ -7,7 +7,7 @@ please install scipy and decimal packages before running this program, I do not 
 Also, please make sure the input file is under dir+/../tweet_input/tweets.txt so that the program can run properly, and you would expect to see the result in tweet_output/output.txt.
 
 In run.sh and run_test.sh, I do not include
-> pip install spicy
+> pip install scipy
 
 > pip install decimal
 
